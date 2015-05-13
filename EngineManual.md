@@ -1,0 +1,1 @@
+To start looking at what is inside the Impulse engine, look at the [overview](EngineOverview.md) page. If you need more details about engine design and technical choices, you can find them in the [design](EngineDesign.md) page.

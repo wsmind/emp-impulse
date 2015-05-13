@@ -1,0 +1,1 @@
+This project is a short production made by the ElectroMagnetic Potatoes team. Its main goals are to realize a full-featured, yet small, 2d game, and to experiment with team internal communication and workflows.

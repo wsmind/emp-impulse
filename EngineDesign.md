@@ -1,0 +1,3 @@
+# First draft #
+
+![http://yuml.me/diagram/scruffy/class/%5BSprite%20Animation%5D,%20%5BParticle%20Systems%5D-%3E%5BSFML%5D,%20%5BUI%5D-%3E%5BSFML%5D,%20%5BCollision%20Detection%5D,%20%5BResource%20Management%5D-%3E%5BSFML%5D,%20%5BResource%20Management%5D-%3E%5BSprite%20Animation%5D.png](http://yuml.me/diagram/scruffy/class/%5BSprite%20Animation%5D,%20%5BParticle%20Systems%5D-%3E%5BSFML%5D,%20%5BUI%5D-%3E%5BSFML%5D,%20%5BCollision%20Detection%5D,%20%5BResource%20Management%5D-%3E%5BSFML%5D,%20%5BResource%20Management%5D-%3E%5BSprite%20Animation%5D.png)
